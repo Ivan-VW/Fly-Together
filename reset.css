@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE+Mono:ital,wght@0,100..800;1,100..800&family=Sirivennela&display=swap');
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -43,3 +44,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+html
+{
+	font-family: "SUSE Mono", sans-serif;
+}	
